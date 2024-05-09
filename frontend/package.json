@@ -1,5 +1,5 @@
 {
-  "proxy": "http://localhost:4000",
+  "proxy": "https://task-manager-backend-03j4.onrender.com",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
